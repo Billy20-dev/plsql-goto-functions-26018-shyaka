@@ -1,1 +1,12 @@
+# SQL Developer temporary files
+*.log
+*.lck
 
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor temporary files
+*.tmp
+*.swp
+*.bak
